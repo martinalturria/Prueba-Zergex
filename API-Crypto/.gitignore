@@ -1,0 +1,30 @@
+# Dependencias
+/node_modules
+
+# Archivos de configuración de entorno
+.env
+.env.production
+
+# Directorios de salida
+/dist
+/build
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos específicos de la IDE (Visual Studio Code)
+.vscode/
+
+# Archivos de prueba
+/coverage
+/tests
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Otros
+.DS_Store
+Thumbs.db
